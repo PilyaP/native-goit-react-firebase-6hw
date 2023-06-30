@@ -1,0 +1,25 @@
+[debug] [2023-06-30T14:19:17.189Z] ----------------------------------------------------------------------
+[debug] [2023-06-30T14:19:17.191Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\ppaex\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2023-06-30T14:19:17.191Z] CLI Version:   12.4.2
+[debug] [2023-06-30T14:19:17.192Z] Platform:      win32
+[debug] [2023-06-30T14:19:17.192Z] Node Version:  v19.2.0
+[debug] [2023-06-30T14:19:17.192Z] Time:          Fri Jun 30 2023 17:19:17 GMT+0300 (за східноєвропейським літнім часом)
+[debug] [2023-06-30T14:19:17.192Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-06-30T14:19:17.197Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-06-30T14:19:17.197Z] > authorizing via signed-in user (ppaexpert@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\it\native-goit
+
+Before we get started, keep in mind:
+
+  * You are currently outside your home directory
+
